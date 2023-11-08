@@ -1,4 +1,3 @@
-# A K-Dimensional tree implemented in  C and C++
 
 
 NOTE: to interact with the algorithm, a g++ compiler is needed or any c++ compiler so as to produce appropriate executable files depending
@@ -22,5 +21,4 @@ NOTE: to interact with the algorithm, a g++ compiler is needed or any c++ compil
 
 
 #### See the "input file.txt" for a sample input and "output file.txt" for the corresponding output..
-
 

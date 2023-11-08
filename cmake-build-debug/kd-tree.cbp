@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="kd-tree"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Volumes/Bomen/UB-final-year project/bomen-b4-041019/kd-tree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kd-tree">
+				<Option output="/Volumes/Bomen/UB-final-year project/bomen-b4-041019/kd-tree/cmake-build-debug/kd-tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/Bomen/UB-final-year project/bomen-b4-041019/kd-tree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/Bomen/UB-final-year project/bomen-b4-041019/kd-tree/kd-tree"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 kd-tree"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kd-tree/fast">
+				<Option output="/Volumes/Bomen/UB-final-year project/bomen-b4-041019/kd-tree/cmake-build-debug/kd-tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/Bomen/UB-final-year project/bomen-b4-041019/kd-tree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/Bomen/UB-final-year project/bomen-b4-041019/kd-tree/kd-tree"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 kd-tree/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Volumes/Bomen/UB-final-year project/bomen-b4-041019/kd-tree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Volumes/Bomen/UB-final-year project/bomen-b4-041019/kd-tree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/Bomen/UB-final-year\ project/bomen-b4-041019/kd-tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Volumes/Bomen/UB-final-year project/bomen-b4-041019/kd-tree/kdTree.cpp">
+			<Option target="kd-tree"/>
+		</Unit>
+		<Unit filename="/Volumes/Bomen/UB-final-year project/bomen-b4-041019/kd-tree/kdTree.h">
+			<Option target="kd-tree"/>
+		</Unit>
+		<Unit filename="/Volumes/Bomen/UB-final-year project/bomen-b4-041019/kd-tree/main.cpp">
+			<Option target="kd-tree"/>
+		</Unit>
+		<Unit filename="/Volumes/Bomen/UB-final-year project/bomen-b4-041019/kd-tree/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/kd-tree.dir/kdTree.cpp.o" "CMakeFiles/kd-tree.dir/main.cpp.o" -o kd-tree 

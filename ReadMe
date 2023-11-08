@@ -1,0 +1,11 @@
+
+===kd-Tree implementation in C++ for n-dimensional points===============================================
+=kd-tree: space partitioning of points or objects with respect to their allignment in the dimensional space..
+=As mention above, the implementation is done using C++. It takes n-dimensional points where n is a positive integer greater than zero
+=The required specification to test the implementation is as follow
+    =C++ 17 and above
+    =MinGW32 or MinGW64 with g++ compiler or any C++ compiler
+    =CMake v3.12 and above
+=Of course a software is never complete and so is this implementation and is awaiting optimization. Contributors are highly welcome to improve in the efficiency of the algorithm
+=Please report in case of any bug so it help in improving the program performance..
+=Thanks..
