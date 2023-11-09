@@ -28,4 +28,5 @@ The file `test1.cpp` can be use for random generation of input points with an in
 
 #### Knowledge
 `C` `C++` `Data Structure and Algorithm`
+> Please leave a star if you find it helpful. Thanks.
 
